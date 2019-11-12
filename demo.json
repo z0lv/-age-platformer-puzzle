@@ -340,7 +340,7 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"audiosprite",
+         "name":"__audiosprite",
          "type":"file",
          "value":"../dist/MazePlatformer.json"
         },
